@@ -1,0 +1,2 @@
+# Data Collector
+[PORT MIS](https://new.portmis.go.kr/portmis/websquare/websquare.jsp?w2xPath=/portmis/w2/main/index.xml&page=/portmis/w2/stats/external/cntr/UI-AD-ST-051.xml&menuId=bi0154&menuCd=M5119&menuNm=%EA%B7%9C%EA%B2%A9%EB%B3%84%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%B2%98%EB%A6%AC%EC%8B%A4%EC%A0%81)에서 데이터를 액셀 형태로 다운로드하여, 하나의 csv 파일로 병합해주는 스크립트
